@@ -85,7 +85,7 @@ Shows how the model optimizes during training.
 
 Used to detect overfitting and control generalization.
 
-![Validation Loss](validation_loss.png)
+![Validation Loss](Validation_loss.png)
 
 ---
 
@@ -93,3 +93,4 @@ Used to detect overfitting and control generalization.
 
 ```bash
 pip install torch pandas numpy scikit-learn matplotlib
+
